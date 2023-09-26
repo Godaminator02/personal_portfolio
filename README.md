@@ -2,7 +2,7 @@
 
 # Personal Portfolio Website
 
-![Website Preview](screenshot.png)
+![Website Preview](Home.png)
 
 This repository contains the source code for my personal portfolio website built using HTML and CSS. This website serves as a showcase of my skills, projects, and achievements. Feel free to explore the code and use it as a reference for your own portfolio website.
 
